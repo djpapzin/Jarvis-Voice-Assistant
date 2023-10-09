@@ -4,6 +4,11 @@ An AI-powered voice assistant that answers questions by searching a knowledge ba
 
 ![Demo Screenshot](demo.jpeg)
 
+## Live Demo
+
+You can access the live deployment of the Jarvis Voice Assistant on Streamlit Cloud: [Jarvis Voice Assistant](https://jarvis-voice.streamlit.app/)
+
+
 ## Overview
 
 This project creates a conversational assistant using:
@@ -25,7 +30,7 @@ It scrapes Python library docs from Hugging Face Hub to build the knowledge base
 
 ### Run
 
-- `streamlit run chat.py` to start the assistant app.
+- `streamlit run chat.py` to start the assistant app locally.
 
 ## API Keys & Tokens
 
